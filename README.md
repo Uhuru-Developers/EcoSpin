@@ -1,26 +1,33 @@
 # ETHO-ENERGIES
 ### Reducing energy costs in homes through use of digital ethanol stoves
 
+
 ## PROBLEM
 ![download (2)](https://user-images.githubusercontent.com/55960987/201830387-8afbd725-a7d2-4bde-a874-6efe14e1a886.jpg)
 4 Million people die per year due to Household air pollution resulting from Biomass burning for cooking (Wood, dung, charcoal, and crop residue)
 
+
 ![download (3)](https://user-images.githubusercontent.com/55960987/201830558-64f0f856-b4e1-414e-a1ed-401d6ed5d2fe.jpg)
 These Fuels are burned in simple stoves or open fires with ineficient combustion associated with the release of hazardous gases and particles such as carbon monoxide, and nitrogen dioxide. The arising pollutants are the major contributors to House Air pollution responsible for 2.93% of the deaths in Uganda each year
 
+
 ![imgonline-com-ua-twotoone-aVT3qAHcrJktuH1](https://user-images.githubusercontent.com/55960987/201830825-e81c22f9-4e82-4723-8306-3d949008e2eb.jpg)
 10kg of wood is used to make 1kg of charcoal resulting into annual wood consumption of 20 million tons to cater for the 96% Ugandans who use firewood and charcoal for domestic cooking
+
 
 ![imgonline-com-ua-twotoone-xkmfPFiOYMeNp](https://user-images.githubusercontent.com/55960987/201830899-30322ecd-a7cb-44a3-8920-3a848332d29e.jpg)
 Deforestation leads to increased carbon dioxide and climate change.
 Uganda alone estimated a loss of 49,200 hectares of tree cover (approximately 113 million trees) in 2021 due to deforestation, equivalent to 25.1 Metric tons (25,100 tons) of carbon dioxide emissions.
 
+
 ![imgonline-com-ua-twotoone-YjyLlQA7iFSVr2WV](https://user-images.githubusercontent.com/55960987/201831002-929be8a1-64cf-40df-9a6a-46e6255cadda.jpg)
 Women and children risk assault and sexual harassment daily when collecting firewood
 
+
 ## SOLUTION
-                 ![download (16)](https://user-images.githubusercontent.com/55960987/201831113-194848f2-11fa-474d-9e6e-857cf3a583b9.jpg)
+![download (16)](https://user-images.githubusercontent.com/55960987/201831113-194848f2-11fa-474d-9e6e-857cf3a583b9.jpg)
 Clean energy cooking through the use of Digital Ethanol stoves since Ethanol can be locally produced and is highly flammable with a blue non-luminous flame with a very low carbon emission rate lower than that recommended by the World Health Organization. Ethanol is safe, Efficient and Durable.
+
 
 ## THE PRODUCT
 Currently, we have two prototypes of the system which are still under modification
@@ -37,6 +44,7 @@ Currently, we have two prototypes of the system which are still under modificati
 ![IMG_20221111_124710](https://user-images.githubusercontent.com/55960987/201832245-6b0654f3-9bbc-40ee-867a-50b6cf68be59.jpg)
 ![IMG_20221111_124713](https://user-images.githubusercontent.com/55960987/201832263-d7a4185b-49d5-4220-bafb-d8c00771924b.jpg)
 
+
 ### PROPOSED FEATURES OF THE STOVE
 - Auto ignition to reduce lighting time
 - Automatic switch off when the set time has reached
@@ -45,8 +53,10 @@ Currently, we have two prototypes of the system which are still under modificati
 - Display of energy (Ethanol fuel consumption) per week
 - Auto low volume detection in the fuel tank and adjustment (increasing the volume) from the Reservoir.
 
+
 ## SUSTAINABILITY
 ![imgonline-com-ua-twotoone-7UM0VeKrMH](https://user-images.githubusercontent.com/55960987/201831253-a57ad4a7-d7ba-4881-87b1-b4c30d081ad9.jpg)
+
 40% of fruits and vegetables go to waste along the supply chain which results in food wastage.
 
 Currently, the annual post-harvest loss stands at 17.6% for about 2.8 million metric tons of maize (492,800 metric tons), 12.4% for about 214,000 metric tons of millet (26,536 metric tons), 13.5% of 230,000 metric tons of rice (31,050 metric tons) produced in the country. (Food and Agriculture Organization, SAVE FOOD; Global Initiative on Food Loss and Waste Reduction).
@@ -61,11 +71,13 @@ This implies that the ethanol produced from the annual harvest loss of only 3 cr
 
 So the production of ethanol fuel involves the reduction of wastes from the environment including egg shells which contain calcium carbonate needed in Bio-ethanol fuel production.
 
+
 ## COMPETITION
 Access to cleaner fuels such as electricity and Liquid Petroleum Gas (LPG) is limited due to logistical and financial supply barriers particularly high capital infrastructure costs, mostly in rural areas. 
 
 Thus our target is to avail ethanol cooking fuel as well as Digital ethanol stoves in all parts of the country at the lowest possible price to cater to low-income earners. Stoves will also be purchased via hire purchase to enable payments in installments, and also the cooking fuel will be availed starting at as low as 1,000 Ugshs.
 This ethanol can as well be used as an alternative fuel in cooking, vehicles, generators, and other machines like Popcorn machines, bricks burning machines, and slashing machines.
+
 
 ## BUSINESS PLAN
 ![fuel_supply_chain-ff794c22](https://user-images.githubusercontent.com/55960987/201833641-5923d7c5-3f00-4f57-9958-65e849dfe254.png)
@@ -79,6 +91,7 @@ We will have a group of Ugandans involved in the production of Digital ethanol s
 
 We will have refilling stations per local council for all areas where our stoves have been sold for easy access to cooking fuel
 
+
 ## PROJECTED POSITIVE IMPACTS
 - Users will be in position to track their monthly fuel consumptions and also ethanol fuel willbe cheaper compared to Charcoal and Firewood
 - Reduction in carbon emissions (carbon dioxide, soot, carbon monoxide, methane) by 30%
@@ -87,6 +100,7 @@ We will have refilling stations per local council for all areas where our stoves
 - Reduction of Agricultural loss by 40% since the rotten agricultural materials will be used in ethanol production.
 - Reduction in deforestation by 35%
 - Reduction of cancer and other respiratory-related problems by 15%
+
 
 ## FUTURE PRODUCTS WHICH WILL USE ETHANOL
 ![download (24)](https://user-images.githubusercontent.com/55960987/201834786-2c7e90e2-875f-4eb3-9a62-ff587b20a30a.jpg)
@@ -102,23 +116,30 @@ We will have refilling stations per local council for all areas where our stoves
 #### ETHO-GENERATORS: 
 These are Generators that will use Ethanol to operate, to prevent the dangerous emissions made by Diesel or Petrol in Generators. This will as well reduce the operating costs of generators.
 
+
 #### ETHO-CORNS: 
 These are movable popcorn machines that will use Ethanol as their fuel instead of using Charcoal.
+
 
 #### ETHO-GRILLERS: 
 These will be ethanol stoves made particularly for meat grilling to replace charcoal stove grillers
 
+
 #### ETHO-OVENS: 
 So the-ovens will be made to replace charcoal and firewood ovens to be used in bakeries. These ovens will use Ethanol as fuel and will be made in such a way that they are cost-effective and safe compared to wood fuel ovens.
+
 
 #### ETHO-SLASHERS: 
 These are slashing machines that will be used for slashing in compounds and will be made in such a way that they use Ethanol fuel to operate and will be cost-effective.
 
+
 #### ETHO-BRICKS: 
 Currently, brick burning is one of the major source of pollutant gasses in the environment. Etho-bricks will be stoves designed in such away that they use ethanol to aid in brick burning. The stoves will be made in such a way that they are cost effective and can be hired by Brick layers to burn their bricks.
 
+
 #### ETHO-VEHICLES: 
 This will be a future project and research air which will reduce the fuel costs of running a car and reduce the dangerous gases emitted by Petrol and diesel to the atmosphere. It will involve cars which have an engine that runs on Ethanol.
+
 
 ## CATEGORIES OF PEOPLE THE PROJECT IS GOING TO EMPLOY
 The project will employ both skilled (educated) and casual labor in the following categories;
@@ -132,6 +153,7 @@ The project will employ both skilled (educated) and casual labor in the followin
 
 - Vehicle owners and drivers who will be distributing the stoves, transporting the raw materials, and distributing the fuel, among others
 
+
 ## CONTACTS
 ### NAME:			SSEMAKULA JONATHAN
 
@@ -142,4 +164,3 @@ The project will employ both skilled (educated) and casual labor in the followin
 ### ADDRESS:	NANSANA
 
 ### BSC. COMPUTER SCIENCE, 	MAKERERE UNIVERSITY
-
