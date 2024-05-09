@@ -1,8 +1,10 @@
-:) <img width="210" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1">
+<div align="center">
+ <img width="210" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1">
+</div>
 
-
-### :) Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
-
+<div align="center">
+### Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
+</div>
 
 
 ## PROBLEM
