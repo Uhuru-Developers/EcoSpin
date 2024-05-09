@@ -1,14 +1,15 @@
 <center><img width="210" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1"></center>
 
 
-# <center>ECOSPIN</center>
 ### Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
 
 
 
 ## PROBLEM
-![download (2)](https://user-images.githubusercontent.com/55960987/201830387-8afbd725-a7d2-4bde-a874-6efe14e1a886.jpg)
-4 Million people die per year due to Household air pollution resulting from Biomass burning for cooking (Wood, dung, charcoal, and crop residue)
+<img width="446" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/bef2e0db-94f6-47f4-a285-912109f24edd">
+
+Plastic pollution poses a significant threat to Uganda's environment, impacting waterways, Agricultural soils, wildlife, and public health. In Uganda, this issue is critical, with the country generating 600 tonnes of plastic waste daily, much of which comes from single-use plastic bottles used for soft drinks and mineral water1. Only about 6% of this plastic waste is collected for recycling, indicating a substantial gap in waste management.
+
 
 
 ![download (3)](https://user-images.githubusercontent.com/55960987/201830558-64f0f856-b4e1-414e-a1ed-401d6ed5d2fe.jpg)
