@@ -1,5 +1,5 @@
 <div align="center">
- <img width="210" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1">
+ <img width="250" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1">
 </div>
 
 <div align="center">
@@ -21,8 +21,8 @@ Plastic pollution poses a significant threat to Uganda's environment, impacting 
 
 ## SOLUTION
 <div align="center">
-<img width="430" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/3006e8a3-8ab0-4d1f-aeeb-e37322cb1b9e">
-<div align="center">
+<img width="800" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/3006e8a3-8ab0-4d1f-aeeb-e37322cb1b9e">
+</div>
 
 EcoSpin is dedicated to transforming the significant volume of plastic waste in Uganda into high-quality recycled yarn and artificial wool. These materials provide a sustainable alternative for the textile industry, appealing to tailors, knitters, and fabric manufacturers who seek eco-friendly inputs. By processing discarded plastic into valuable textile fibers, we not only help reduce environmental pollution but also support the fashion and textile sectors with sustainable, innovative materials. This initiative not only diverts waste from landfills but also turns it into a resource, promoting a circular economy in Uganda.
 <br>
