@@ -133,6 +133,7 @@ Market Adaptation: Eco Spin’s adaptability to meet local market needs in Ugand
 
 ### NAME:			FAROUK JJINGO
 ### CONTACT: 	+256777421601
+### EMAIL:		jjingofarouq@gmail.com
 ### HEALTH EXPERT
 <br>
 
