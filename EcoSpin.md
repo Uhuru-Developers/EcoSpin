@@ -15,7 +15,6 @@
 </div>
 
 Plastic pollution poses a significant threat to Uganda's environment, impacting waterways, Agricultural soils, wildlife, and public health. In Uganda, this issue is critical, with the country generating 600 tonnes of plastic waste daily, much of which comes from single-use plastic bottles used for soft drinks and mineral water. Only about 6% of this plastic waste is collected for recycling, indicating a substantial gap in waste management.
-
 <br>
 
 
@@ -32,11 +31,13 @@ EcoSpin is dedicated to transforming the significant volume of plastic waste in 
 Our mission includes setting up a network of collection centers across Kampala, securing partnerships with local waste collectors, and initiating the production of recycled plastic products. Within two years, we plan to expand our network across Uganda, diversify our product range, and establish a strong market presence. Our five-year goal is to lead the market in recycled plastic materials, explore export opportunities, and leverage innovative technologies to enhance recycling efficiency.
 <br>
 
+
 ## TARGET MARKET
 EcoSpin aims to serve a diverse range of clients within the textile and fashion industries, including manufacturers of sweaters, headwear, sweater pants, and other knitted garments. Our recycled yarn and artificial wool are especially attractive to companies and designers seeking sustainable and cost-effective materials to integrate into their products. Additionally, we target craft enthusiasts and small businesses in the craft sector who value eco-friendly materials for their projects.
 
 Our market also extends to educational institutions and community groups that require yarn for training and craft activities, promoting sustainability through hands-on learning experiences. Moreover, government agencies involved in environmental management and waste reduction initiatives represent a significant segment of our target market, as they are often in search of innovative solutions to manage waste effectively and promote environmental education.
 <br>
+
 
 ## WHY NOW
 The market opportunity for recycled plastics in Uganda and the broader East African region is significant and growing. As of now, Uganda alone generates around 600 metric tons of plastic waste daily, but only about 6% of this waste is currently collected for recycling. This gap represents a substantial opportunity for businesses focused on plastic recycling.
@@ -48,6 +49,7 @@ Moreover, the global market for recycled plastics is expected to grow from USD 6
 The PET segment, in particular, is notable for its potential. It is increasingly used in food and non-food packaging applications and is projected to reach a market size of US$ 14.1 billion by 2026. This growing market presents a great opportunity for EcoSpin, to not only address environmental issues but also tap into a lucrative and expanding sector. By focusing on converting plastic waste into high-quality yarn and artificial wool, this initiative will meet the increasing demand for eco-friendly materials in the fashion and textile industries, both locally and regionally.
 <br>
 
+
 ## MARKET OPPORTUNITY
 The market opportunity for recycled yarn and wool in the textile and craft industries appears robust and is poised for growth. The global recycled textile market, which includes recycled yarn, was valued at approximately USD 5.36 billion in 2023 and is projected to grow to about USD 6.87 billion by 2032. This growth reflects a compound annual growth rate (CAGR) of 2.8%. Specifically, the recycled yarn market itself is forecast to reach $5 billion by 2025, after growing at a CAGR of 6.5% from 2020.
 
@@ -57,6 +59,7 @@ Moreover, the apparel sector is one of the fastest-growing segments within the r
 
 The demand for recycled yarn and artificial wool in Uganda and the broader East African region is positioned to grow, reflecting broader trends in the global textile market. East Africa, including Uganda, is increasingly being viewed as a potential hub for textile manufacturing due to its growing working-age population and initiatives by governments to develop the textile and garment industries.
 <br>
+
 
 ## COMPETITION
 Our competitors include:
@@ -78,6 +81,7 @@ Sustainability and Community Impact: By aligning its operations with sustainabil
 Market Adaptation: Understanding the specific needs of the East African textile market, EcoSpin will adapt its products to meet local demands and preferences, potentially offering customized solutions that larger, more generalized competitors may not provide.
 <br>
 
+
 ## UN SUSTAINABLE DEVELOPMENT GOALS
 EcoSpin is aligned with a number of United Nations Sustainable Development Goals (SDGs).
 SDG 8: Decent Work and Economic Growth - By transforming plastic waste into yarn and artificial wool, EcoSpin creates new job opportunities in the recycling and manufacturing sectors. This initiative supports local employment and contributes to economic growth by developing a new industry within Uganda and potentially East Africa.
@@ -90,6 +94,7 @@ SDG 9: Industry, Innovation, and Infrastructure - The project contributes to bui
 
 SDG 11: Sustainable Cities and Communities - EcoSpin helps make cities and human settlements inclusive, safe, resilient, and sustainable by managing urban waste effectively and reducing the environmental impact of cities. The reduction of plastic waste also contributes to cleaner urban environments.
 <br>
+
 
 ## WHAT MAKES ECOSPIN INNOVATIVE
 EcoSpin project is innovative in several ways that distinguish it within the field of recycling and sustainable textile production:
@@ -104,6 +109,7 @@ Community and Economic Impact: The project is also innovative in its approach to
 Market Adaptation: Eco Spin’s adaptability to meet local market needs in Uganda and potentially other East African markets is an innovative aspect. Understanding and adapting to local consumer preferences, economic conditions, and regulatory environments will allow EcoSpin to effectively serve its target markets while promoting sustainable practices.
 <br>
 
+
 ## FUTURE RESEARCH
 - Use of glass waste as an alternative raw material in the making of yarn and wool
 - Use of plastic waste to make:
@@ -116,6 +122,7 @@ Market Adaptation: Eco Spin’s adaptability to meet local market needs in Ugand
   - Necklaces
   - Sandals
 <br>
+
 
 ## CONTACTS
 ### NAME:			JONATHAN SSEMAKULA
