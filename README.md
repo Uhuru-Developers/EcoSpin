@@ -10,162 +10,111 @@
 
 Plastic pollution poses a significant threat to Uganda's environment, impacting waterways, Agricultural soils, wildlife, and public health. In Uganda, this issue is critical, with the country generating 600 tonnes of plastic waste daily, much of which comes from single-use plastic bottles used for soft drinks and mineral water1. Only about 6% of this plastic waste is collected for recycling, indicating a substantial gap in waste management.
 
-
-
-![download (3)](https://user-images.githubusercontent.com/55960987/201830558-64f0f856-b4e1-414e-a1ed-401d6ed5d2fe.jpg)
-These Fuels are burned in simple stoves or open fires with ineficient combustion associated with the release of hazardous gases and particles such as carbon monoxide, and nitrogen dioxide. The arising pollutants are the major contributors to House Air pollution responsible for 2.93% of the deaths in Uganda each year
-
-
-![imgonline-com-ua-twotoone-aVT3qAHcrJktuH1](https://user-images.githubusercontent.com/55960987/201830825-e81c22f9-4e82-4723-8306-3d949008e2eb.jpg)
-10kg of wood is used to make 1kg of charcoal resulting into annual wood consumption of 20 million tons to cater for the 96% Ugandans who use firewood and charcoal for domestic cooking
-
-
-![imgonline-com-ua-twotoone-xkmfPFiOYMeNp](https://user-images.githubusercontent.com/55960987/201830899-30322ecd-a7cb-44a3-8920-3a848332d29e.jpg)
-Deforestation leads to increased carbon dioxide and climate change.
-Uganda alone estimated a loss of 49,200 hectares of tree cover (approximately 113 million trees) in 2021 due to deforestation, equivalent to 25.1 Metric tons (25,100 tons) of carbon dioxide emissions.
-
-
-![imgonline-com-ua-twotoone-YjyLlQA7iFSVr2WV](https://user-images.githubusercontent.com/55960987/201831002-929be8a1-64cf-40df-9a6a-46e6255cadda.jpg)
-Women and children risk assault and sexual harassment daily when collecting firewood
+<br>
 
 
 ## SOLUTION
-![download (16)](https://user-images.githubusercontent.com/55960987/201831113-194848f2-11fa-474d-9e6e-857cf3a583b9.jpg)
-Clean energy cooking through the use of Digital Ethanol stoves since Ethanol can be locally produced and is highly flammable with a blue non-luminous flame with a very low carbon emission rate lower than that recommended by the World Health Organization. Ethanol is safe, Efficient and Durable.
+<img width="430" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/3006e8a3-8ab0-4d1f-aeeb-e37322cb1b9e">
+
+EcoSpin is dedicated to transforming the significant volume of plastic waste in Uganda into high-quality recycled yarn and artificial wool. These materials provide a sustainable alternative for the textile industry, appealing to tailors, knitters, and fabric manufacturers who seek eco-friendly inputs. By processing discarded plastic into valuable textile fibers, we not only help reduce environmental pollution but also support the fashion and textile sectors with sustainable, innovative materials. This initiative not only diverts waste from landfills but also turns it into a resource, promoting a circular economy in Uganda.
 
 
-## THE PRODUCT
-Currently, we have two prototypes of the system which are still under modification
 
-![IMG_20221017_123156](https://user-images.githubusercontent.com/55960987/201831940-00e1172d-b709-4160-91ce-8b5427899014.jpg)
-![IMG_20221017_123634](https://user-images.githubusercontent.com/55960987/201831985-5d103fc9-c5a4-4a6b-b04c-c8fbb745a54b.jpg)
-![IMG_20221017_123646](https://user-images.githubusercontent.com/55960987/201832000-49a860ac-e9b9-44e8-b66f-1810a2453da5.jpg)
-![IMG_20221017_123657](https://user-images.githubusercontent.com/55960987/201832090-0312f115-ff73-4a06-a5d5-aa857af277eb.jpg)
-![IMG_20221017_123732](https://user-images.githubusercontent.com/55960987/201832119-ba963ca6-2d94-4ad5-aac4-868e466c24f1.jpg)
-![IMG_20221111_124028](https://user-images.githubusercontent.com/55960987/201832150-92cc5165-168a-4276-abb4-2839e5d243ff.jpg)
-![IMG_20221111_124031](https://user-images.githubusercontent.com/55960987/201832181-abbe8479-7fa3-46b9-95c3-46b6b723f6b8.jpg)
-![IMG_20221111_124056](https://user-images.githubusercontent.com/55960987/201832201-ba9f54df-cac9-472a-941c-16cf9b55a4c3.jpg)
-![IMG_20221111_124139](https://user-images.githubusercontent.com/55960987/201832221-046dcca7-19c9-4b47-9a97-686c0ffe3a87.jpg)
-![IMG_20221111_124710](https://user-images.githubusercontent.com/55960987/201832245-6b0654f3-9bbc-40ee-867a-50b6cf68be59.jpg)
-![IMG_20221111_124713](https://user-images.githubusercontent.com/55960987/201832263-d7a4185b-49d5-4220-bafb-d8c00771924b.jpg)
+## BUSINESS GOALS
+Our mission includes setting up a network of collection centers across Kampala, securing partnerships with local waste collectors, and initiating the production of recycled plastic products. Within two years, we plan to expand our network across Uganda, diversify our product range, and establish a strong market presence. Our five-year goal is to lead the market in recycled plastic materials, explore export opportunities, and leverage innovative technologies to enhance recycling efficiency.
 
 
-### PROPOSED FEATURES OF THE STOVE
-- Auto ignition to reduce lighting time
-- Automatic switch off when the set time has reached
-- Temperature adjustments through use of different temperature adjustment buttons
-- Ability to use timing button, to make timings
-- Display of energy (Ethanol fuel consumption) per week
-- Auto low volume detection in the fuel tank and adjustment (increasing the volume) from the Reservoir.
+## TARGET MARKET
+EcoSpin aims to serve a diverse range of clients within the textile and fashion industries, including manufacturers of sweaters, headwear, sweater pants, and other knitted garments. Our recycled yarn and artificial wool are especially attractive to companies and designers seeking sustainable and cost-effective materials to integrate into their products. Additionally, we target craft enthusiasts and small businesses in the craft sector who value eco-friendly materials for their projects.
+Our market also extends to educational institutions and community groups that require yarn for training and craft activities, promoting sustainability through hands-on learning experiences. Moreover, government agencies involved in environmental management and waste reduction initiatives represent a significant segment of our target market, as they are often in search of innovative solutions to manage waste effectively and promote environmental education.
 
 
-## SUSTAINABILITY
-![imgonline-com-ua-twotoone-7UM0VeKrMH](https://user-images.githubusercontent.com/55960987/201831253-a57ad4a7-d7ba-4881-87b1-b4c30d081ad9.jpg)
+## WHY NOW
+The market opportunity for recycled plastics in Uganda and the broader East African region is significant and growing. As of now, Uganda alone generates around 600 metric tons of plastic waste daily, but only about 6% of this waste is currently collected for recycling. This gap represents a substantial opportunity for businesses focused on plastic recycling.
+In the wider East African region, the demand for recycled plastics is expected to rise considerably. Africa's plastic recycling market is projected to grow from 9.95 million tonnes in 2020 to 15.36 million tonnes by 2030, marking a compound annual growth rate (CAGR) of 3.97% 3. This growth is driven by an increased need for sustainable materials in various industries, including packaging and construction.
+Moreover, the global market for recycled plastics is expected to grow from USD 69.4 billion in 2023 to USD 120.0 billion by 2030, with a CAGR of 8.1% during this period 4. This growth is supported by heightened environmental concerns and a shift towards sustainability in manufacturing and consumer goods.
+The PET segment, in particular, is notable for its potential. It is increasingly used in food and non-food packaging applications and is projected to reach a market size of US$ 14.1 billion by 2026. This growing market presents a great opportunity for EcoSpin, to not only address environmental issues but also tap into a lucrative and expanding sector. By focusing on converting plastic waste into high-quality yarn and artificial wool, this initiative will meet the increasing demand for eco-friendly materials in the fashion and textile industries, both locally and regionally.
 
-40% of fruits and vegetables go to waste along the supply chain which results in food wastage.
 
-Currently, the annual post-harvest loss stands at 17.6% for about 2.8 million metric tons of maize (492,800 metric tons), 12.4% for about 214,000 metric tons of millet (26,536 metric tons), 13.5% of 230,000 metric tons of rice (31,050 metric tons) produced in the country. (Food and Agriculture Organization, SAVE FOOD; Global Initiative on Food Loss and Waste Reduction).
+## MARKET OPPORTUNITY
+The market opportunity for recycled yarn and wool in the textile and craft industries appears robust and is poised for growth. The global recycled textile market, which includes recycled yarn, was valued at approximately USD 5.36 billion in 2023 and is projected to grow to about USD 6.87 billion by 2032. This growth reflects a compound annual growth rate (CAGR) of 2.8%. Specifically, the recycled yarn market itself is forecast to reach $5 billion by 2025, after growing at a CAGR of 6.5% from 2020.
 
-This makes up a total of 550,386 metric tons of total waste from only these 3 crops which is enough to produce 242 billion liters of ethanol per year. 
+In the textile sector, recycled materials are increasingly in demand due to rising environmental concerns and the push for sustainability. The recycled wool market is also showing positive trends, with expected growth driven by technological advancements in recycling processes and increasing consumer awareness about environmental issues. This indicates a substantial and expanding market for products like those EcoSpin intends to offer.
 
-If every Ugandan uses 10 liters of ethanol fuel for cooking, this Quantity produced can be enough for 47 million Ugandans for a year with an excess of 71 billion liters of ethanol. 
+Moreover, the apparel sector is one of the fastest-growing segments within the recycled yarn market, expected to witness a CAGR of around 8% during the forecast period. This surge is driven by increasing demand for yarn to meet the clothing requirements of a growing population.
 
-According to the Ministry of Energy, 2019, Uganda consumes 180 million liters of fuel per day, which makes the annual fuel consumption approximately 65.7 billion liters.
-
-This implies that the ethanol produced from the annual harvest loss of only 3 crops (maize, millet, and rice) is enough to cater to the annual fuel consumption for the country including using it as a cooking alternative.
-
-So the production of ethanol fuel involves the reduction of wastes from the environment including egg shells which contain calcium carbonate needed in Bio-ethanol fuel production.
+The demand for recycled yarn and artificial wool in Uganda and the broader East African region is positioned to grow, reflecting broader trends in the global textile market. East Africa, including Uganda, is increasingly being viewed as a potential hub for textile manufacturing due to its growing working-age population and initiatives by governments to develop the textile and garment industries.
 
 
 ## COMPETITION
-Access to cleaner fuels such as electricity and Liquid Petroleum Gas (LPG) is limited due to logistical and financial supply barriers particularly high capital infrastructure costs, mostly in rural areas. 
+Our competitors include:
+1. Eco-Plastic Products Uganda
+2. Plastic Recycling Industries Uganda (PRIU)
+3. Green Valley Technologies Uganda
+4. Kazinga Recycling and Products
+5. Eco-Brixs
 
-Thus our target is to avail ethanol cooking fuel as well as Digital ethanol stoves in all parts of the country at the lowest possible price to cater to low-income earners. Stoves will also be purchased via hire purchase to enable payments in installments, and also the cooking fuel will be availed starting at as low as 1,000 Ugshs.
-This ethanol can as well be used as an alternative fuel in cooking, vehicles, generators, and other machines like Popcorn machines, bricks burning machines, and slashing machines.
+However, we aim to differentiate ourselves by implementing advanced recycling technologies to ensure high-quality recycled materials, collaborating with waste collectors for fair compensation, promoting community ownership of the solution, and developing a diverse range of recycled plastic products catering to specific market needs.
 
+EcoSpin distinguishes itself from competitors in several ways:
+Specialization in Recycled Yarn and Wool: Unlike broader recycling companies like Eco Brixs, EcoSpin focuses specifically on converting plastic waste into high-quality recycled yarn and artificial wool. This specialization allows EcoSpin to cater specifically to the textile and fashion industries, offering a unique product that's in growing demand both locally and globally.
 
-## BUSINESS PLAN
-![fuel_supply_chain-ff794c22](https://user-images.githubusercontent.com/55960987/201833641-5923d7c5-3f00-4f57-9958-65e849dfe254.png)
-![Bioethanol-production-process](https://user-images.githubusercontent.com/55960987/201833925-4f59bc39-08a0-4413-8e1c-8b02efb40646.jpg)
+Technological Innovation: EcoSpin will leverage advanced recycling technologies to ensure the quality and consistency of its yarn and wool, which are crucial for applications in knitting and fabric manufacturing. This focus on high-quality outputs will set EcoSpin apart in markets that require consistent and durable textile materials.
 
-We intend to have an ethanol power plant with big tanks for the storage of ethanol
+Sustainability and Community Impact: By aligning its operations with sustainability goals, EcoSpin not only contributes to environmental conservation but also appeals to eco-conscious consumers and businesses looking to reduce their environmental footprint. Additionally, similar to Eco-Brixs, EcoSpin has the opportunity to impact the local community positively by creating jobs and supporting local waste collection initiatives.
 
-We plan to use the available trucks to carry crop waste (Rotten fruits and vegetables like Mangoes, yellow bananas, oranges, sugarcanes, and pineapples among others, food crops like maize, millet, rice, and potatoes among others, and food remaining like pineapple, sugarcane, and mango peelings) from farmers and markets centers to the ethanol plant for Ethanol production, as well as trucks carrying ethanol to market selling centers.
-
-We will have a group of Ugandans involved in the production of Digital ethanol stoves and ethanol production
-
-We will have refilling stations per local council for all areas where our stoves have been sold for easy access to cooking fuel
-
-
-## PROJECTED POSITIVE IMPACTS
-- Users will be in position to track their monthly fuel consumptions and also ethanol fuel willbe cheaper compared to Charcoal and Firewood
-- Reduction in carbon emissions (carbon dioxide, soot, carbon monoxide, methane) by 30%
-- Provision of employment opportunities to more than 1000 Ugandans who will be involved in stove production, ethanol production, and distribution as well as Marketing. 
-- Reduction of waste by 40% since the waste will be recycled to produce ethanol, and the residue used as fertilizers.
-- Reduction of Agricultural loss by 40% since the rotten agricultural materials will be used in ethanol production.
-- Reduction in deforestation by 35%
-- Reduction of cancer and other respiratory-related problems by 15%
+Market Adaptation: Understanding the specific needs of the East African textile market, EcoSpin will adapt its products to meet local demands and preferences, potentially offering customized solutions that larger, more generalized competitors may not provide.
 
 
-## FUTURE PRODUCTS WHICH WILL USE ETHANOL
-![download (24)](https://user-images.githubusercontent.com/55960987/201834786-2c7e90e2-875f-4eb3-9a62-ff587b20a30a.jpg)
-![download (25)](https://user-images.githubusercontent.com/55960987/201834791-5c139422-4968-4888-88fb-7482ec07e3d1.jpg)
-![images (2)](https://user-images.githubusercontent.com/55960987/201834798-d0904fce-ddff-4704-9cff-b9cbece94cb5.jpg)
-![images (3)](https://user-images.githubusercontent.com/55960987/201834804-60fe2dec-1299-4941-b17d-5e8f0bb7241a.jpg)
-![download (17)](https://user-images.githubusercontent.com/55960987/201834806-7c4ec50e-5b8e-41db-a225-ba933e14ac89.jpg)
-![download (18)](https://user-images.githubusercontent.com/55960987/201834808-e93f6b25-b2ab-454f-8bde-da3c197a9082.jpg)
-![download (20)](https://user-images.githubusercontent.com/55960987/201834811-3fff06eb-b18c-4eb3-a1f2-c6fb4e7f6ad6.jpg)
-![download (21)](https://user-images.githubusercontent.com/55960987/201834814-170e6e1c-8905-4329-ab56-ec4efca475ce.jpg)
+## UN SUSTAINABLE DEVELOPMENT GOALS
+EcoSpin is aligned with a number of United Nations Sustainable Development Goals (SDGs).
+SDG 8: Decent Work and Economic Growth - By transforming plastic waste into yarn and artificial wool, EcoSpin creates new job opportunities in the recycling and manufacturing sectors. This initiative supports local employment and contributes to economic growth by developing a new industry within Uganda and potentially East Africa.
 
-### DESCRIPTION OF THE PRODUCT
-#### ETHO-GENERATORS: 
-These are Generators that will use Ethanol to operate, to prevent the dangerous emissions made by Diesel or Petrol in Generators. This will as well reduce the operating costs of generators.
+SDG 12: Responsible Consumption and Production - EcoSpin promotes sustainable consumption and production patterns through its recycling processes. By converting plastic waste into valuable materials, the project helps reduce waste and encourages the recycling industry, which is crucial for minimizing the environmental impact of resource extraction and waste.
+
+SDG 13: Climate Action - By recycling plastic waste, EcoSpin helps reduce the amount of waste that ends up in landfills or is incinerated, both of which can contribute to greenhouse gas emissions. This initiative supports efforts to mitigate climate change by promoting sustainable waste management practices.
+
+SDG 9: Industry, Innovation, and Infrastructure - The project contributes to building resilient infrastructure, promoting inclusive and sustainable industrialization, and fostering innovation. By developing new methods and technologies for recycling plastic into textile materials, EcoSpin enhances the technological capabilities of the local industry.
+
+SDG 11: Sustainable Cities and Communities - EcoSpin helps make cities and human settlements inclusive, safe, resilient, and sustainable by managing urban waste effectively and reducing the environmental impact of cities. The reduction of plastic waste also contributes to cleaner urban environments.
 
 
-#### ETHO-CORNS: 
-These are movable popcorn machines that will use Ethanol as their fuel instead of using Charcoal.
-
-
-#### ETHO-GRILLERS: 
-These will be ethanol stoves made particularly for meat grilling to replace charcoal stove grillers
-
-
-#### ETHO-OVENS: 
-So the-ovens will be made to replace charcoal and firewood ovens to be used in bakeries. These ovens will use Ethanol as fuel and will be made in such a way that they are cost-effective and safe compared to wood fuel ovens.
-
-
-#### ETHO-SLASHERS: 
-These are slashing machines that will be used for slashing in compounds and will be made in such a way that they use Ethanol fuel to operate and will be cost-effective.
-
-
-#### ETHO-BRICKS: 
-Currently, brick burning is one of the major source of pollutant gasses in the environment. Etho-bricks will be stoves designed in such away that they use ethanol to aid in brick burning. The stoves will be made in such a way that they are cost effective and can be hired by Brick layers to burn their bricks.
-
-
-#### ETHO-VEHICLES: 
-This will be a future project and research air which will reduce the fuel costs of running a car and reduce the dangerous gases emitted by Petrol and diesel to the atmosphere. It will involve cars which have an engine that runs on Ethanol.
-
-
-## CATEGORIES OF PEOPLE THE PROJECT IS GOING TO EMPLOY
-The project will employ both skilled (educated) and casual labor in the following categories;
-- Stove Makers
-
-- Industrial Chemists who will aid in Ethanol Production
-
-- Mechanical Engineers who will aid in innovations like Ethanol generators, slashers, and vehicles among others
-
-- I.T personnel who will be responsible for Digitalizing the system and monitoring the distribution and sales using advanced system
-
-- Vehicle owners and drivers who will be distributing the stoves, transporting the raw materials, and distributing the fuel, among others
+## FUTURE RESEARCH
+- Use of glass waste as an alternative raw material in the making of yarn and wool
+- Use of plastic waste to make:
+  - Plates
+  - Rulers
+  - Storage bags
+  - Photo frames
+  - Phone holders
+  - Face shields
+  - Necklaces
+  - Sandals
 
 
 ## CONTACTS
-### NAME:			SSEMAKULA JONATHAN
+### NAME:			JONATHAN SSEMAKULA
 
-### CONTACT: 	0788123717 / 0755655687
+### CONTACT: 	+256788123717 / +601119206232
 
-### EMAIL:		uhurussemakula069@gmail.com / uhurustudies@gmail.com
+### EMAIL:		uhurussemakula069@gmail.com
 
-### ADDRESS:	NANSANA
+### ADDRESS:	WAKISO, UGANDA
 
-### BSC. COMPUTER SCIENCE, 	MAKERERE UNIVERSITY
+### MECHATRONICS & ROBOTICS ENGINEER
+
+
+<br>
+### NAME:			FAROUK JJINGO
+
+### CONTACT: 	+256777421601
+
+<br>
+
+### NAME:			ISAAC SSOZI
+
+### CONTACT: 	+256773845993
+### EMAIL:		isaacssozi98@gmail.com
+
+
+
