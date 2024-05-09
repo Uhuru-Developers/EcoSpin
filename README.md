@@ -1,5 +1,9 @@
-# ETHO-ENERGIES
-### Reducing energy costs in homes through use of digital ethanol stoves
+<center><img width="210" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/00855268-6e82-435e-b5f9-1c9347a71ba1"></center>
+
+
+<center># ECOSPIN</center>
+### Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
+
 
 
 ## PROBLEM
