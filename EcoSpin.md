@@ -125,22 +125,22 @@ Market Adaptation: Eco Spin’s adaptability to meet local market needs in Ugand
 
 
 ## THE TEAM
-### NAME:			JONATHAN SSEMAKULA
-### CONTACT: 	+256788123717 / +601119206232
-### EMAIL:		uhurussemakula069@gmail.com
-### MECHATRONICS & ROBOTICS ENGINEER
+#### NAME:			JONATHAN SSEMAKULA
+#### CONTACT: 	+256788123717 / +601119206232
+#### EMAIL:		uhurussemakula069@gmail.com
+#### MECHATRONICS & ROBOTICS ENGINEER
 <br>
 
-### NAME:			FAROUK JJINGO
-### CONTACT: 	+256777421601
-### EMAIL:		jjingofarouq@gmail.com
-### HEALTH EXPERT
+#### NAME:			FAROUK JJINGO
+#### CONTACT: 	+256777421601
+#### EMAIL:		jjingofarouq@gmail.com
+#### HEALTH EXPERT
 <br>
 
-### NAME:			ISAAC SSOZI
-### CONTACT: 	+256773845993
-### EMAIL:		isaacssozi98@gmail.com
-### COMPUTER SCIENTIST
+#### NAME:			ISAAC SSOZI
+#### CONTACT: 	+256773845993
+#### EMAIL:		isaacssozi98@gmail.com
+#### COMPUTER SCIENTIST
 
 
 
