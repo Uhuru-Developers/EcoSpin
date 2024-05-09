@@ -124,11 +124,10 @@ Market Adaptation: Eco Spin’s adaptability to meet local market needs in Ugand
 <br>
 
 
-## CONTACTS
+## THE TEAM
 ### NAME:			JONATHAN SSEMAKULA
 ### CONTACT: 	+256788123717 / +601119206232
 ### EMAIL:		uhurussemakula069@gmail.com
-### ADDRESS:	WAKISO, UGANDA
 ### MECHATRONICS & ROBOTICS ENGINEER
 <br>
 
