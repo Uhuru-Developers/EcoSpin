@@ -31,8 +31,11 @@ Our market also extends to educational institutions and community groups that re
 
 ## WHY NOW
 The market opportunity for recycled plastics in Uganda and the broader East African region is significant and growing. As of now, Uganda alone generates around 600 metric tons of plastic waste daily, but only about 6% of this waste is currently collected for recycling. This gap represents a substantial opportunity for businesses focused on plastic recycling.
-In the wider East African region, the demand for recycled plastics is expected to rise considerably. Africa's plastic recycling market is projected to grow from 9.95 million tonnes in 2020 to 15.36 million tonnes by 2030, marking a compound annual growth rate (CAGR) of 3.97% 3. This growth is driven by an increased need for sustainable materials in various industries, including packaging and construction.
+
+In the wider East African region, the demand for recycled plastics is expected to rise considerably. Africa's plastic recycling market is projected to grow from 9.95 million tonnes in 2020 to 15.36 million tonnes by 2030, marking a compound annual growth rate (CAGR) of 3.97%. This growth is driven by an increased need for sustainable materials in various industries, including packaging and construction.
+
 Moreover, the global market for recycled plastics is expected to grow from USD 69.4 billion in 2023 to USD 120.0 billion by 2030, with a CAGR of 8.1% during this period 4. This growth is supported by heightened environmental concerns and a shift towards sustainability in manufacturing and consumer goods.
+
 The PET segment, in particular, is notable for its potential. It is increasingly used in food and non-food packaging applications and is projected to reach a market size of US$ 14.1 billion by 2026. This growing market presents a great opportunity for EcoSpin, to not only address environmental issues but also tap into a lucrative and expanding sector. By focusing on converting plastic waste into high-quality yarn and artificial wool, this initiative will meet the increasing demand for eco-friendly materials in the fashion and textile industries, both locally and regionally.
 
 
@@ -94,27 +97,21 @@ SDG 11: Sustainable Cities and Communities - EcoSpin helps make cities and human
 
 ## CONTACTS
 ### NAME:			JONATHAN SSEMAKULA
-
 ### CONTACT: 	+256788123717 / +601119206232
-
 ### EMAIL:		uhurussemakula069@gmail.com
-
 ### ADDRESS:	WAKISO, UGANDA
-
 ### MECHATRONICS & ROBOTICS ENGINEER
-
-
 <br>
+
 ### NAME:			FAROUK JJINGO
-
 ### CONTACT: 	+256777421601
-
+### HEALTH EXPERT
 <br>
 
 ### NAME:			ISAAC SSOZI
-
 ### CONTACT: 	+256773845993
 ### EMAIL:		isaacssozi98@gmail.com
+### COMPUTER SCIENTIST
 
 
 
