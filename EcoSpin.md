@@ -3,20 +3,26 @@
 </div>
 
 <div align="center">
-### Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
+<h2>
+ Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
+</h2>
 </div>
 
 
 ## PROBLEM
-<img width="446" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/bef2e0db-94f6-47f4-a285-912109f24edd">
+<div align="center">
+<img width="800" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/bef2e0db-94f6-47f4-a285-912109f24edd">
+</div>
 
-Plastic pollution poses a significant threat to Uganda's environment, impacting waterways, Agricultural soils, wildlife, and public health. In Uganda, this issue is critical, with the country generating 600 tonnes of plastic waste daily, much of which comes from single-use plastic bottles used for soft drinks and mineral water1. Only about 6% of this plastic waste is collected for recycling, indicating a substantial gap in waste management.
+Plastic pollution poses a significant threat to Uganda's environment, impacting waterways, Agricultural soils, wildlife, and public health. In Uganda, this issue is critical, with the country generating 600 tonnes of plastic waste daily, much of which comes from single-use plastic bottles used for soft drinks and mineral water. Only about 6% of this plastic waste is collected for recycling, indicating a substantial gap in waste management.
 
 <br>
 
 
 ## SOLUTION
+<div align="center">
 <img width="430" alt="image" src="https://github.com/Uhuru-Developers/EcoSpin/assets/55960987/3006e8a3-8ab0-4d1f-aeeb-e37322cb1b9e">
+<div align="center">
 
 EcoSpin is dedicated to transforming the significant volume of plastic waste in Uganda into high-quality recycled yarn and artificial wool. These materials provide a sustainable alternative for the textile industry, appealing to tailors, knitters, and fabric manufacturers who seek eco-friendly inputs. By processing discarded plastic into valuable textile fibers, we not only help reduce environmental pollution but also support the fashion and textile sectors with sustainable, innovative materials. This initiative not only diverts waste from landfills but also turns it into a resource, promoting a circular economy in Uganda.
 <br>
