@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-<h2>
+<h3>
  Spinning Waste into Wonder: Yarn from Plastic, for a Sustainable Tomorrow!
-</h2>
+</h3>
 </div>
 
 
@@ -34,6 +34,7 @@ Our mission includes setting up a network of collection centers across Kampala, 
 
 ## TARGET MARKET
 EcoSpin aims to serve a diverse range of clients within the textile and fashion industries, including manufacturers of sweaters, headwear, sweater pants, and other knitted garments. Our recycled yarn and artificial wool are especially attractive to companies and designers seeking sustainable and cost-effective materials to integrate into their products. Additionally, we target craft enthusiasts and small businesses in the craft sector who value eco-friendly materials for their projects.
+
 Our market also extends to educational institutions and community groups that require yarn for training and craft activities, promoting sustainability through hands-on learning experiences. Moreover, government agencies involved in environmental management and waste reduction initiatives represent a significant segment of our target market, as they are often in search of innovative solutions to manage waste effectively and promote environmental education.
 <br>
 
